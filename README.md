@@ -43,7 +43,7 @@ YOU LOSE!!
 ```
 
 ## Screenshots
-![Game Output](./screenshot.png)
+![Game Output](./Output.png)
 
 ## License
 This project is licensed under the MIT License.
