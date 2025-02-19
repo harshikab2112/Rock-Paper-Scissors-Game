@@ -35,7 +35,8 @@ else:
         print("YOU LOSE!!\n")
     else:
         print("Something went wrong!!\n")
-    
+        
+    #Another Logic
     """if (computer == -1) and (user_input == 0):
         print("You win!!\n")
     elif (computer == 0) and (user_input == 1):
