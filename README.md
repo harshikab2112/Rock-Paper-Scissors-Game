@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors-Game
 
-A simple Rock-Paper-Scissors game implemented in Python. The user plays against the computer, which randomly selects a choice.
+A simple Rock-Paper-Scissors game implemented in Python. The user plays against the computer, which randomly selects a choice. It was fun creating this simple beginner-friendly project!
 
 ## Features
 - User can choose Rock, Paper, or Scissors.
